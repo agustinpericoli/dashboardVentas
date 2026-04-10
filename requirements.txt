@@ -1,0 +1,12 @@
+
+---
+
+## 📦 requirements.txt (archivo aparte)
+
+Esto va en un archivo separado llamado `requirements.txt`:
+
+```txt
+streamlit
+pandas
+matplotlib
+xlsxwriter
